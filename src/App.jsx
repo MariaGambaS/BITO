@@ -4,7 +4,7 @@ import { Instagram, ChevronDown, Check, Menu, X } from "lucide-react";
 // ============================================================
 // ⚡ CONFIGURA ESTO ANTES DE SUBIR
 // ============================================================
-const WHATSAPP_NUMBER = "5210000000000"; // 👈 CAMBIA por tu número con código de país (52 para México), sin espacios ni guiones
+const WHATSAPP_NUMBER = "524731125412"; // 👈 CAMBIA por tu número con código de país (52 para México), sin espacios ni guiones
 // Ejemplo: "5214771234567"
 // ============================================================
 
